@@ -1,0 +1,58 @@
+0$35$NONE$NONE
+1$37$bubblesort=class$NONE
+2$7$bubblesort=class$NONE
+3$38$bubblesort=class$NONE
+4$8$bubblesort=class$NONE
+5$10$bubblesort=class$arrayInit[0]=-1$arrayInit[1]=16$arrayInit[2]=4$arrayInit[3]=-5$arrayInit[4]=24$NONE
+6$11$bubblesort=class$arrayInit[0]=-1$arrayInit[1]=16$arrayInit[2]=4$arrayInit[3]=-5$arrayInit[4]=24$array=0$NONE
+7$12$bubblesort=class$arrayInit[0]=-1$arrayInit[1]=16$arrayInit[2]=4$arrayInit[3]=-5$arrayInit[4]=24$bubblesort.array[0]=-1$bubblesort.array[1]=16$bubblesort.array[2]=4$bubblesort.array[3]=-5$bubblesort.array[4]=24$NONE
+8$39$bubblesort=class$bubblesort.array[0]=-1$bubblesort.array[1]=16$bubblesort.array[2]=4$bubblesort.array[3]=-5$bubblesort.array[4]=24$NONE
+9$14$bubblesort=class$bubblesort.array[0]=-1$bubblesort.array[1]=16$bubblesort.array[2]=4$bubblesort.array[3]=-5$bubblesort.array[4]=24$NONE
+10$16$bubblesort=class$bubblesort.array[0]=-1$bubblesort.array[1]=16$bubblesort.array[2]=4$bubblesort.array[3]=-5$bubblesort.array[4]=24$i=1$j=0$NONE
+11$17$bubblesort=class$bubblesort.array[0]=-1$bubblesort.array[1]=16$bubblesort.array[2]=4$bubblesort.array[3]=-5$bubblesort.array[4]=24$i=1$j=1$NONE
+12$18$bubblesort=class$bubblesort.array[0]=-1$bubblesort.array[1]=16$bubblesort.array[2]=4$bubblesort.array[3]=-5$bubblesort.array[4]=24$i=1$j=1$NONE
+13$20$bubblesort=class$bubblesort.array[0]=-1$bubblesort.array[1]=16$bubblesort.array[2]=4$bubblesort.array[3]=-5$bubblesort.array[4]=24$a=1$b=2$NONE
+14$22$bubblesort=class$bubblesort.array[0]=-1$bubblesort.array[1]=16$bubblesort.array[2]=4$bubblesort.array[3]=-5$bubblesort.array[4]=24$a=1$b=2$NONE
+15$24$bubblesort=class$bubblesort.array[0]=-1$bubblesort.array[1]=16$bubblesort.array[2]=4$bubblesort.array[3]=-5$bubblesort.array[4]=24$a=1$b=2$temp=16$NONE
+16$25$bubblesort=class$bubblesort.array[0]=-1$bubblesort.array[1]=4$bubblesort.array[2]=4$bubblesort.array[3]=-5$bubblesort.array[4]=24$a=1$b=2$temp=16$NONE
+17$26$bubblesort=class$bubblesort.array[0]=-1$bubblesort.array[1]=4$bubblesort.array[2]=16$bubblesort.array[3]=-5$bubblesort.array[4]=24$a=1$b=2$temp=16$NONE
+18$17$bubblesort=class$bubblesort.array[0]=-1$bubblesort.array[1]=4$bubblesort.array[2]=16$bubblesort.array[3]=-5$bubblesort.array[4]=24$i=1$j=2$NONE
+19$18$bubblesort=class$bubblesort.array[0]=-1$bubblesort.array[1]=4$bubblesort.array[2]=16$bubblesort.array[3]=-5$bubblesort.array[4]=24$i=1$j=2$NONE
+20$20$bubblesort=class$bubblesort.array[0]=-1$bubblesort.array[1]=4$bubblesort.array[2]=16$bubblesort.array[3]=-5$bubblesort.array[4]=24$a=2$b=3$NONE
+21$22$bubblesort=class$bubblesort.array[0]=-1$bubblesort.array[1]=4$bubblesort.array[2]=16$bubblesort.array[3]=-5$bubblesort.array[4]=24$a=2$b=3$NONE
+22$24$bubblesort=class$bubblesort.array[0]=-1$bubblesort.array[1]=4$bubblesort.array[2]=16$bubblesort.array[3]=-5$bubblesort.array[4]=24$a=2$b=3$temp=16$NONE
+23$25$bubblesort=class$bubblesort.array[0]=-1$bubblesort.array[1]=4$bubblesort.array[2]=-5$bubblesort.array[3]=-5$bubblesort.array[4]=24$a=2$b=3$temp=16$NONE
+24$26$bubblesort=class$bubblesort.array[0]=-1$bubblesort.array[1]=4$bubblesort.array[2]=-5$bubblesort.array[3]=16$bubblesort.array[4]=24$a=2$b=3$temp=16$NONE
+25$17$bubblesort=class$bubblesort.array[0]=-1$bubblesort.array[1]=4$bubblesort.array[2]=-5$bubblesort.array[3]=16$bubblesort.array[4]=24$i=1$j=3$NONE
+26$18$bubblesort=class$bubblesort.array[0]=-1$bubblesort.array[1]=4$bubblesort.array[2]=-5$bubblesort.array[3]=16$bubblesort.array[4]=24$i=1$j=3$NONE
+27$20$bubblesort=class$bubblesort.array[0]=-1$bubblesort.array[1]=4$bubblesort.array[2]=-5$bubblesort.array[3]=16$bubblesort.array[4]=24$a=3$b=4$NONE
+28$16$bubblesort=class$bubblesort.array[0]=-1$bubblesort.array[1]=4$bubblesort.array[2]=-5$bubblesort.array[3]=16$bubblesort.array[4]=24$i=2$j=4$NONE
+29$17$bubblesort=class$bubblesort.array[0]=-1$bubblesort.array[1]=4$bubblesort.array[2]=-5$bubblesort.array[3]=16$bubblesort.array[4]=24$i=2$j=1$NONE
+30$18$bubblesort=class$bubblesort.array[0]=-1$bubblesort.array[1]=4$bubblesort.array[2]=-5$bubblesort.array[3]=16$bubblesort.array[4]=24$i=2$j=1$NONE
+31$20$bubblesort=class$bubblesort.array[0]=-1$bubblesort.array[1]=4$bubblesort.array[2]=-5$bubblesort.array[3]=16$bubblesort.array[4]=24$a=1$b=2$NONE
+32$22$bubblesort=class$bubblesort.array[0]=-1$bubblesort.array[1]=4$bubblesort.array[2]=-5$bubblesort.array[3]=16$bubblesort.array[4]=24$a=1$b=2$NONE
+33$24$bubblesort=class$bubblesort.array[0]=-1$bubblesort.array[1]=4$bubblesort.array[2]=-5$bubblesort.array[3]=16$bubblesort.array[4]=24$a=1$b=2$temp=4$NONE
+34$25$bubblesort=class$bubblesort.array[0]=-1$bubblesort.array[1]=-5$bubblesort.array[2]=-5$bubblesort.array[3]=16$bubblesort.array[4]=24$a=1$b=2$temp=4$NONE
+35$26$bubblesort=class$bubblesort.array[0]=-1$bubblesort.array[1]=-5$bubblesort.array[2]=4$bubblesort.array[3]=16$bubblesort.array[4]=24$a=1$b=2$temp=4$NONE
+36$17$bubblesort=class$bubblesort.array[0]=-1$bubblesort.array[1]=-5$bubblesort.array[2]=4$bubblesort.array[3]=16$bubblesort.array[4]=24$i=2$j=2$NONE
+37$18$bubblesort=class$bubblesort.array[0]=-1$bubblesort.array[1]=-5$bubblesort.array[2]=4$bubblesort.array[3]=16$bubblesort.array[4]=24$i=2$j=2$NONE
+38$20$bubblesort=class$bubblesort.array[0]=-1$bubblesort.array[1]=-5$bubblesort.array[2]=4$bubblesort.array[3]=16$bubblesort.array[4]=24$a=2$b=3$NONE
+39$16$bubblesort=class$bubblesort.array[0]=-1$bubblesort.array[1]=-5$bubblesort.array[2]=4$bubblesort.array[3]=16$bubblesort.array[4]=24$i=3$j=3$NONE
+40$17$bubblesort=class$bubblesort.array[0]=-1$bubblesort.array[1]=-5$bubblesort.array[2]=4$bubblesort.array[3]=16$bubblesort.array[4]=24$i=3$j=1$NONE
+41$18$bubblesort=class$bubblesort.array[0]=-1$bubblesort.array[1]=-5$bubblesort.array[2]=4$bubblesort.array[3]=16$bubblesort.array[4]=24$i=3$j=1$NONE
+42$20$bubblesort=class$bubblesort.array[0]=-1$bubblesort.array[1]=-5$bubblesort.array[2]=4$bubblesort.array[3]=16$bubblesort.array[4]=24$a=1$b=2$NONE
+43$16$bubblesort=class$bubblesort.array[0]=-1$bubblesort.array[1]=-5$bubblesort.array[2]=4$bubblesort.array[3]=16$bubblesort.array[4]=24$i=4$j=2$NONE
+44$40$bubblesort=class$bubblesort.array[0]=-1$bubblesort.array[1]=-5$bubblesort.array[2]=4$bubblesort.array[3]=16$bubblesort.array[4]=24$NONE
+45$29$bubblesort=class$bubblesort.array[0]=-1$bubblesort.array[1]=-5$bubblesort.array[2]=4$bubblesort.array[3]=16$bubblesort.array[4]=24$NONE
+46$31$bubblesort=class$bubblesort.array[0]=-1$bubblesort.array[1]=-5$bubblesort.array[2]=4$bubblesort.array[3]=16$bubblesort.array[4]=24$The result of BubbleSort Algorithm is:
+47$32$bubblesort=class$bubblesort.array[0]=-1$bubblesort.array[1]=-5$bubblesort.array[2]=4$bubblesort.array[3]=16$bubblesort.array[4]=24$k=0$The result of BubbleSort Algorithm is:
+48$33$bubblesort=class$bubblesort.array[0]=-1$bubblesort.array[1]=-5$bubblesort.array[2]=4$bubblesort.array[3]=16$bubblesort.array[4]=24$k=0$The result of BubbleSort Algorithm is: -1
+49$32$bubblesort=class$bubblesort.array[0]=-1$bubblesort.array[1]=-5$bubblesort.array[2]=4$bubblesort.array[3]=16$bubblesort.array[4]=24$k=1$The result of BubbleSort Algorithm is: -1
+50$33$bubblesort=class$bubblesort.array[0]=-1$bubblesort.array[1]=-5$bubblesort.array[2]=4$bubblesort.array[3]=16$bubblesort.array[4]=24$k=1$The result of BubbleSort Algorithm is: -1 -5
+51$32$bubblesort=class$bubblesort.array[0]=-1$bubblesort.array[1]=-5$bubblesort.array[2]=4$bubblesort.array[3]=16$bubblesort.array[4]=24$k=2$The result of BubbleSort Algorithm is: -1 -5
+52$33$bubblesort=class$bubblesort.array[0]=-1$bubblesort.array[1]=-5$bubblesort.array[2]=4$bubblesort.array[3]=16$bubblesort.array[4]=24$k=2$The result of BubbleSort Algorithm is: -1 -5 4
+53$32$bubblesort=class$bubblesort.array[0]=-1$bubblesort.array[1]=-5$bubblesort.array[2]=4$bubblesort.array[3]=16$bubblesort.array[4]=24$k=3$The result of BubbleSort Algorithm is: -1 -5 4
+54$33$bubblesort=class$bubblesort.array[0]=-1$bubblesort.array[1]=-5$bubblesort.array[2]=4$bubblesort.array[3]=16$bubblesort.array[4]=24$k=3$The result of BubbleSort Algorithm is: -1 -5 4 16
+55$32$bubblesort=class$bubblesort.array[0]=-1$bubblesort.array[1]=-5$bubblesort.array[2]=4$bubblesort.array[3]=16$bubblesort.array[4]=24$k=4$The result of BubbleSort Algorithm is: -1 -5 4 16
+56$33$bubblesort=class$bubblesort.array[0]=-1$bubblesort.array[1]=-5$bubblesort.array[2]=4$bubblesort.array[3]=16$bubblesort.array[4]=24$k=4$The result of BubbleSort Algorithm is: -1 -5 4 16 24
+57$41$bubblesort=class$bubblesort.array[0]=-1$bubblesort.array[1]=-5$bubblesort.array[2]=4$bubblesort.array[3]=16$bubblesort.array[4]=24$The result of BubbleSort Algorithm is: -1 -5 4 16 24

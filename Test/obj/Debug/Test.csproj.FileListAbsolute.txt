@@ -1,0 +1,14 @@
+C:\Users\Xiaojun\Documents\SharpDevelop Projects\Test\Test\bin\Debug\Test.exe
+C:\Users\Xiaojun\Documents\SharpDevelop Projects\Test\Test\bin\Debug\Test.pdb
+C:\Users\Xiaojun\Documents\SharpDevelop Projects\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Xiaojun\Documents\SharpDevelop Projects\Test\Test\obj\Debug\Test.exe
+C:\Users\Xiaojun\Documents\SharpDevelop Projects\Test\Test\obj\Debug\Test.pdb
+C:\Users\Xiaojun\Documents\SharpDevelop Projects\Test\Test\obj\Debug\Test.MainForm.resources
+C:\Users\Xiaojun\Documents\SharpDevelop Projects\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+D:\Dropbox\code\livingdebugging\BubbleSort2\Test\Test\obj\Debug\Test.exe
+D:\Dropbox\code\livingdebugging\BubbleSort2\Test\Test\obj\Debug\Test.pdb
+D:\Dropbox\code\livingdebugging\BubbleSort2\Test\Test\bin\Debug\Test.exe
+D:\Dropbox\code\livingdebugging\BubbleSort2\Test\Test\bin\Debug\Test.pdb
+D:\Dropbox\code\livingdebugging\BubbleSort2\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\Dropbox\code\livingdebugging\BubbleSort2\Test\Test\obj\Debug\Test.MainForm.resources
+D:\Dropbox\code\livingdebugging\BubbleSort2\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
